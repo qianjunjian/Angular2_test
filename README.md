@@ -27,3 +27,9 @@ git remote add origin git@github.com:qianjunjian/Angular2_test.git
   git pull
 2.要合并其他分支到你的当前分支（例如 master），执行：
   git merge <branch>
+
+
+
+===================================================================================
+angular2 详解ANGULAR2组件中的变化检测机制
+http://www.cnblogs.com/shitoupi/p/6731575.html
